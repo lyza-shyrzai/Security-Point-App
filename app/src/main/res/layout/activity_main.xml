@@ -21,6 +21,25 @@
         tools:text="Security Point"
         android:gravity="center"/>
 
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="12sp"
+        tools:text="v1.5"
+        android:gravity="center"/>
+
+    <Button
+        android:text="Website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:id="@+id/button"
+        android:elevation="0dp" />
+
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
