@@ -18,7 +18,8 @@
         android:id="@+id/textView"
         android:textSize="20sp"
         android:padding="20dp"
-        tools:text="Security Point" />
+        tools:text="Security Point"
+        android:gravity="center"/>
 
     <ImageView
         android:layout_width="wrap_content"
